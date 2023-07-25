@@ -1,0 +1,6 @@
+- [什么是 Azure OpenAI 服务？](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/overview)
+- [LangChain入门(一)访问LLM模型](https://blog.csdn.net/wenxingchen/article/details/130474400?spm=1001.2014.3001.5502)
+- [llm基础知识](www.google.com.hk)
+- [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [大语言模型（LLM）相关学习资料](https://zhuanlan.zhihu.com/p/616280753)
+- [向量数据库](https://www.bilibili.com/video/BV1Tm4y1b76v/?spm_id_from=333.337.search-card.all.click&vd_source=24dd5fb1f74ddad3b3d11b40950314fb)
